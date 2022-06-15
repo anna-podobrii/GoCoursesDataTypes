@@ -36,6 +36,6 @@ func main() {
 	if canBuyTwoPearsAndTwoApples {
 		fmt.Println("Ми можемо купити 2 груші та 2 яблука")
 	} else {
-		fmt.Println("Ми не можемо купити 2 груші та 2 яблука", allPrice)
+		fmt.Println("Ми не можемо купити 2 груші та 2 яблука")
 	}
 }
